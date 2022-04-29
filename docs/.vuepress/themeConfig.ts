@@ -16,7 +16,7 @@ export default defineThemeConfig({
 
   repo: "guiafp/guiafp.github.io",
 
-  docsDir: "",
+  docsDir: "/docs",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
   
