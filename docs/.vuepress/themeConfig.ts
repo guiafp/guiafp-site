@@ -3,7 +3,7 @@ import * as navbar from "./navbar";
 import * as sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://financaspessoais.com.br",
+  hostname: "https://guiafp.github.io",
 
   // author: {
   //   name: "Guia de Finanças Pessoais",
@@ -14,7 +14,7 @@ export default defineThemeConfig({
   
   logo: "/logo.svg",
 
-  repo: "lerenos/fp",
+  repo: "guiafp/guiafp.github.io",
 
   docsDir: "demo/src",
 
