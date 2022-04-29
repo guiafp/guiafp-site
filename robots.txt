@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://guiafp.github.io/sitemap.xml
+Sitemap: https://guiafp.com.br/sitemap.xml
