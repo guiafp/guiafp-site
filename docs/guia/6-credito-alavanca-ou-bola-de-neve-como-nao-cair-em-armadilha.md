@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #6 Crédito: alavanca ou bola de neve? Como não cair em armadilha?
 
 Crédito é um negócio muito mal visto e não é à toa: [a cada 10 adultos no Brasil, 4 estão negativados](https://economia.uol.com.br/noticias/redacao/2019/01/15/dividas-em-atraso-calote-spc-brasil-2018.htm). Ou seja, não conseguiram pagar suas contas em dia.

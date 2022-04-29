@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #8 Impostos: você não quer, mas vai ter que gastar
 
 Chegamos à parte chata.

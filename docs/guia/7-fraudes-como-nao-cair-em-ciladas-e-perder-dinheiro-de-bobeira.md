@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #7 Fraudes: como não cair em ciladas e perder dinheiro de bobeira
 
 Já falamos aqui sobre como organizar, ganhar e multiplicar dinheiro, sobre como usar o dinheiro para se preparar para imprevistos e até mesmo sobre como usar o dinheiro de outras pessoas para crescer.

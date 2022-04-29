@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #2 Emergências: como comprar tranquilidade
 
 Coisas dão errado.

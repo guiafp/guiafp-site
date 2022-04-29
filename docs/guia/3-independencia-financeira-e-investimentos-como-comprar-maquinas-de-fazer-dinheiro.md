@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #3 Independência Financeira e Investimentos: como comprar máquinas de fazer dinheiro
 
 As máquinas de fazer dinheiro têm nome: elas se chamam **empresas**.

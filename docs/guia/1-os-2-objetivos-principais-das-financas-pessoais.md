@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #1. Os dois objetivos principais das Finanças Pessoais
 
 Aprender sobre finanças pessoais é aprender sobre gerir o seu dinheiro.

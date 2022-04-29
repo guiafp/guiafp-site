@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #5 Empreender: como montar sua própria máquina de fazer dinheiro e turbinar seu orçamento
 
 Vimos no capítulo sobre independência financeira como as máquinas de fazer dinheiro - ou seja, as empresas - funcionam.

@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #4 Orçamento: como planejar a sua vida (e o seu dinheiro)
 
 Nos capítulos anteriores eu te falei sobre os dois principais objetivos das finanças pessoais:

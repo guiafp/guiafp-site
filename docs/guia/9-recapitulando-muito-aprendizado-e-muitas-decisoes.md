@@ -1,3 +1,7 @@
+---
+contributors: false
+---
+
 # #9 Recapitulando: muito aprendizado e muitas decisões
 
 Foi muito aprendizado em pouco tempo, então vale a pena recapitular a história toda.
