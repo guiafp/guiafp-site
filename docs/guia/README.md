@@ -4,6 +4,7 @@ icon: creative
 category:
   - Guia
 next: /guia/1-os-2-objetivos-principais-das-financas-pessoais
+contributors: false
 ---
 
 Seja bem-vinda e seja bem vindo!
