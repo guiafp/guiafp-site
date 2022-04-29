@@ -20,6 +20,14 @@ export default defineThemeConfig({
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
   
+  themeColor: {
+    blue: "#2196f3",
+    purple: "#8E44AD",
+    red: "#f26d6d",
+    orange: "#fb9b5f",
+    green: "#3eaf7c",
+  },
+
   // blog: {
   //   medias: {
   //     Discord: "https://example.com",
@@ -109,28 +117,28 @@ export default defineThemeConfig({
     // If you don't need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
-    // comment: {
-    //   /**
-    //    * Using giscus
-    //    */
-    //   type: "giscus",
-    //   repo: "vuepress-theme-hope/giscus-discussions",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
+    comment: {
+      /**
+       * Using giscus
+       */
+      type: "giscus",
+      repo: "guiafp/guiafp.github.io",
+      repoId: "R_kgDOHQNZ_w",
+      category: "General",
+      categoryId: "DIC_kwDOHQNZ_84CO2mq",
 
-    //   /**
-    //    * Using twikoo
-    //    */
-    //   // type: "twikoo",
-    //   // envId: "https://twikoo.ccknbc.vercel.app",
+      /**
+       * Using twikoo
+       */
+      // type: "twikoo",
+      // envId: "https://twikoo.ccknbc.vercel.app",
 
-    //   /**
-    //    * Using Waline
-    //    */
-    //   // type: "waline",
-    //   // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
-    // },
+      /**
+       * Using Waline
+       */
+      // type: "waline",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+    },
 
     mdEnhance: {
       enableAll: true,
