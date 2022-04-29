@@ -21,7 +21,6 @@ export default defineThemeConfig({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
   
   themeColor: {
-    blue: "#2196f3",
     purple: "#8E44AD",
     red: "#f26d6d",
     orange: "#fb9b5f",
