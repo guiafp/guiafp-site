@@ -18,7 +18,7 @@ export default defineHopeConfig({
     "/": {
       lang: "pt-BR",
       title: "Guia de Finanças Pessoais",
-      description: "Um guia aberto sobre finanças pessoais",
+      description: "Um guia simples e aberto para aprender a cuidar do dinheiro.",
     },
     // "/zh/": {
     //   lang: "zh-CN",
@@ -26,6 +26,8 @@ export default defineHopeConfig({
     //   description: "vuepress-theme-hope 的演示",
     // },
   },
+
+
 
   themeConfig,
 });

@@ -7,9 +7,9 @@ export default defineThemeConfig({
 
   // author: {
   //   name: "Guia de Finanças Pessoais",
-  //   url: "https://financaspessoais.com.br",
+  //   url: "https://guiafp.com.br",
   // },
-  
+
   iconPrefix: "iconfont icon-",
   
   logo: "/logo.svg",
@@ -112,6 +112,11 @@ export default defineThemeConfig({
     // blog: {
     //   autoExcerpt: true,
     // },
+
+    seo:{
+      fallbackImage:"https://guiafp.com.br/logo.png",
+      siteFavIcon:"https://guiafp.com.br/logo.png"
+    },
 
     // If you don't need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.

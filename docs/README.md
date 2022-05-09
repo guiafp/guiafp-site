@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Início
+title: Guia de Finanças Pessoais
 heroImage: /logo.svg
 heroText: Guia de Finanças Pessoais
 tagline: Um guia simples e aberto para aprender a cuidar do dinheiro.
