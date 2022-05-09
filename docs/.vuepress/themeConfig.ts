@@ -5,10 +5,10 @@ import * as sidebar from "./sidebar";
 export default defineThemeConfig({
   hostname: "https://guiafp.com.br",
 
-  // author: {
-  //   name: "Guia de Finanças Pessoais",
-  //   url: "https://guiafp.com.br",
-  // },
+  author: {
+    name: "Guia de Finanças Pessoais",
+    url: "https://guiafp.com.br",
+  },
 
   iconPrefix: "iconfont icon-",
   
@@ -18,7 +18,7 @@ export default defineThemeConfig({
 
   docsDir: "/docs",
 
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+  pageInfo: ["Original", "Date", "Category", "Tag", "ReadingTime"],
   
   themeColor: {
     purple: "#8E44AD",
@@ -113,9 +113,11 @@ export default defineThemeConfig({
     //   autoExcerpt: true,
     // },
 
+    
     seo:{
-      fallbackImage:"https://guiafp.com.br/logo.png",
-      siteFavIcon:"https://guiafp.com.br/logo.png"
+      hostname:"https://guiafp.com.br/",
+      fallBackImage:"https://guiafp.com.br/logo.png",
+      siteFavicon:"https://guiafp.com.br/logo.png"
     },
 
     // If you don't need comment feature, you can remove following option
