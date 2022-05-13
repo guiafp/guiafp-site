@@ -1,4 +1,5 @@
 ---
+index: 2
 contributors: false
 ---
 
@@ -31,13 +32,18 @@ Foca AGORA em juntar os primeiros R$1.000.
 
 Essa agora deve ser a prioridade de toda a sua vida financeira.
 
-Só depois de passar dessa [barreira dos R$ 1.000](/desafio-1000-reais) é que você se precisa se preocupar com outras metas ou tipos de investimentos.
+Só depois de passar dessa [barreira dos R$ 1.000](/guia/desafio-1000-reais) é que você se precisa se preocupar com outras metas ou tipos de investimentos.
 
 ### Onde juntar a reserva para emergências?
 
 Em investimentos seguros, que não tenham flutuações de preço, e que possibilitem uma retirada a qualquer dia. Afinal de contas, é um dinheiro para emergências.
 
-Contas Digitais que rendam 100% do CDI ou Tesouro SELIC são a boa, e eu falo mais sobre isso [aqui neste link](/orcamento/a-reserva-para-emergencias/).
+Contas Digitais que rendam 100% do CDI ou Tesouro SELIC são a boa. Exemplos:
+
+- Nuconta (Nubank)
+- Picpay
+
+CDB de Liquidez Diária que renda 100% do CDI ou mais também são uma opção válida.
 
 Essa reserva serve para toda e qualquer emergência e fica rendendo juros na sua conta, o que é ótimo para você e permite que, ainda que aos poucos, o dinheiro vá crescendo ao longo do tempo.
 
@@ -55,11 +61,11 @@ Diferente da reserva para emergências, o dinheiro não rende, não volta para v
 
 Para entender os seguros, há alguns termos que você precisa conhecer: prêmio, cobertura e sinistro.
 
-O prêmio do seguro é o valor que você paga para a seguradora te proteger.
+O **prêmio** do seguro é o valor que você paga para a seguradora te proteger.
 
-A cobertura do seguro é o valor que a seguradora vai te pagar em caso de sinistro.
+A **cobertura** do seguro é o valor que a seguradora vai te pagar em caso de *sinistro*.
 
-E sinistro é o fato inesperado do qual você está tentando se proteger.
+E **sinistro** é o fato inesperado do qual você está tentando se proteger.
 
 O seguro é um **acordo** entre você e a seguradora. E todas as condições desse acordo - como o **prêmio** e a **cobertura** - estão descritos no **contrato do seguro**.
 

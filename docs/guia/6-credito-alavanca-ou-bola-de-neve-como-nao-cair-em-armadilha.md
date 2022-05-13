@@ -1,4 +1,5 @@
 ---
+index: 6
 contributors: false
 ---
 
@@ -11,10 +12,26 @@ Assim, para que você também não caia em armadilhas, é necessário entender q
 Um empréstimo vale a pena em 3 situações:
 
 1. Alavancar uma boa ideia
-2. Ou trocar dívidas mais caras por dívidas mais baratas
+2. Evitar ou trocar dívidas mais caras por dívidas mais baratas
 3. Cobrir emergências
 
-Vamos uma por uma.
+Vamos uma por uma. Mas antes...
+
+## ATENÇÃO: CANCELE O CHEQUE ESPECIAL
+
+:::danger
+**Cancela essa porcaria.**
+:::
+
+O motivo é simples: os juros são muito altos e ele é muito fácil de pegar.
+
+Cilada.
+
+Liga pro banco, ou vai na agência e cancela. Se tiver devendo, dá pra parcelar o saldo devedor.
+
+Lembro que cobrir emergências não é trabalho pro cheque especial, mas sim para a sua [reserva para emergências](/guia/2-emergencias-como-comprar-tranquilidade), conforme explicado no [Capítulo #2](/guia/2-emergencias-como-comprar-tranquilidade).
+
+Agora sim, vamos às 3 situações:
 
 ## #1 Alavancar uma boa ideia
 
@@ -36,7 +53,7 @@ Se você pega dinheiro emprestado das outras pessoas, você pode impulsionar sua
 
 Como uma alavanca mesmo! Essa é a principal função do crédito: servir como alavanca de um bom projeto.
 
-## #2 Trocar uma dívida mais cara por uma mais barata
+## #2 Evitar ou trocar uma dívida mais cara por uma mais barata
 
 Barato e caro aqui não tem nada a ver com o quanto você deve para o banco. Tem a ver com **a taxa de juros**.
 

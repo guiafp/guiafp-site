@@ -1,5 +1,6 @@
 ---
 contributors: false
+index: 1
 ---
 
 # #1. Os dois objetivos principais das Finanças Pessoais
