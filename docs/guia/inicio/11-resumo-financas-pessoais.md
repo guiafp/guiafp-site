@@ -31,7 +31,7 @@ Depois nós falamos sobre os casos em que o crédito pode ser usado como uma ala
 
 Falando em complicar a vida, te alertei sobre fraudes no crédito e nos investimentos, e por fim falamos um pouco sobre os Impostos.
 
-Fechando, te dei [7 conceitos fundamentais](/guia/9-sete-conceitos-fundamentais-das-financas-pessoais) para você navegar mais tranquilamente no mundo das finanças, e lancei [o desafio dos R$ 1.000](/guia/10-desafio-dos-1000-reais), para te motivar a entrar em ação.
+Fechando, te dei [7 conceitos fundamentais](/guia/inicio/9-sete-conceitos-fundamentais-das-financas-pessoais) para você navegar mais tranquilamente no mundo das finanças, e lancei [o desafio dos R$ 1.000](/guia/inicio/10-desafio-dos-1000-reais), para te motivar a entrar em ação.
 
 ## Recomendações de Conteúdo
 

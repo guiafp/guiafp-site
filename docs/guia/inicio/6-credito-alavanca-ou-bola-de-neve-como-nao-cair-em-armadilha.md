@@ -29,7 +29,7 @@ Cilada.
 
 Liga pro banco, ou vai na agência e cancela. Se tiver devendo, dá pra parcelar o saldo devedor.
 
-Lembro que cobrir emergências não é trabalho pro cheque especial, mas sim para a sua [reserva para emergências](/guia/2-emergencias-como-comprar-tranquilidade), conforme explicado no [Capítulo #2](/guia/2-emergencias-como-comprar-tranquilidade).
+Lembro que cobrir emergências não é trabalho pro cheque especial, mas sim para a sua [reserva para emergências](/guia/inicio/2-emergencias-como-comprar-tranquilidade), conforme explicado no [Capítulo #2](/guia/inicio/2-emergencias-como-comprar-tranquilidade).
 
 Agora sim, vamos às 3 situações:
 

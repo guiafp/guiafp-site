@@ -6,7 +6,7 @@ contributors: false
 
 Finge que a sua vida financeira é um jogo.
 
-Você tem que conquistar **[aqueles 2 objetivos descritos no primeiro capítulo](/guia/1-os-2-objetivos-principais-das-financas-pessoais.html)**: independência financeira e vencer as emergências no meio do caminho.
+Você tem que conquistar **[aqueles 2 objetivos descritos no primeiro capítulo](/guia/inicio/1-os-2-objetivos-principais-das-financas-pessoais.html)**: independência financeira e vencer as emergências no meio do caminho.
 
 Como em qualquer jogo, você tem que fazer movimentos, tomar **ações concretas** pra vencer, que é o que eu falo no capítulo seguinte.
 
@@ -95,7 +95,7 @@ Para correr mais riscos de forma consciente, você tem que tomar pelo menos uns 
 
 ## #3. Desviar de Fraudes
 
-[Já comentamos no capítulo #7](/guia/7-fraudes-como-nao-cair-em-ciladas-e-perder-dinheiro-de-bobeira.html), mas vale a pena resumir e reforçar:
+[Já comentamos no capítulo #7](/guia/inicio/7-fraudes-como-nao-cair-em-ciladas-e-perder-dinheiro-de-bobeira.html), mas vale a pena resumir e reforçar:
 
 As pessoas caem em fraudes geralmente por dois fatores:
 
@@ -132,7 +132,7 @@ Só que é um ciclo crescente, pois você sempre estará subindo um degrau no se
 
 ## #5. Alavancagem: Saber quando um empréstimo vale a pena
 
-Já explicado no [capítulo #6 - Crédito](/guia/6-credito-alavanca-ou-bola-de-neve-como-nao-cair-em-armadilha.htm), mas aproveito para relembrar os 4 casos:
+Já explicado no [capítulo #6 - Crédito](/guia/inicio/6-credito-alavanca-ou-bola-de-neve-como-nao-cair-em-armadilha.htm), mas aproveito para relembrar os 4 casos:
 
 1. Alavancar um projeto produtivo: Por exemplo, você é um microempreendedor e vai pegar um microcrédito pra ampliar o seu negócio.
 

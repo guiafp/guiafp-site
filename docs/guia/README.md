@@ -1,9 +1,9 @@
 ---
 title: O Guia
 icon: creative
-category:
-  - Guia
-next: /guia/1-os-2-objetivos-principais-das-financas-pessoais
+# category:
+#   - Guia
+next: /guia/inicio/1-os-2-objetivos-principais-das-financas-pessoais
 contributors: false
 ---
 

@@ -52,10 +52,10 @@ Acontece. Brasileiro não desiste nunca, tenta de novo!
 
 Já se R$1.000 tiver muito fácil, ótimo!! Você já tá melhor que 93% dos brasileiros.
 
-[Faça seu orçamento](/guia/4-orcamento-como-planejar-a-sua-vida-e-o-seu-dinheiro.html) e adapte a meta de poupança para a sua realidade! Quanto mais você poupar, mais rápido chegará na independência financeira.
+[Faça seu orçamento](/guia/inicio/4-orcamento-como-planejar-a-sua-vida-e-o-seu-dinheiro.html) e adapte a meta de poupança para a sua realidade! Quanto mais você poupar, mais rápido chegará na independência financeira.
 
 ## Onde poupar?
 
 Para os primeiros R$ 1.000, essa pergunta é irrelevante. O desafio aqui é pegar o hábito de poupar.
 
-Mas recomendo as carteiras digitais que rendam 100% do CDI (Nubank, Picpay, etc). Você pode ver mais sobre isso no [Capítulo #2 - Reserva de Emergência](/guia/2-emergencias-como-comprar-tranquilidade).
+Mas recomendo as carteiras digitais que rendam 100% do CDI (Nubank, Picpay, etc). Você pode ver mais sobre isso no [Capítulo #2 - Reserva de Emergência](/guia/inicio/2-emergencias-como-comprar-tranquilidade).

@@ -5,17 +5,28 @@ export const pt = defineSidebarConfig({
     // "",
     // "slide",
     {
-      icon: "creative",
+      icon: "study",
       text: "O Guia",
       prefix: "guia/",
-      link: "guia/",
-      children: "structure",
-    },
-    {
-      text: "Finanças Comportamentais",
-      prefix: "financas-comportamentais/",
-      link: "financas-comportamentais/",
-      children: "structure",
+      link:"guia/",
+      children: [
+        {
+          icon: "style",
+          text: "Início",
+          link: "inicio/",
+          prefix: "inicio/",
+          children: "structure",
+          collapsable: true
+        },
+        {
+          text: "Finanças Comportamentais",
+          link: "financas-comportamentais/",
+          prefix: "financas-comportamentais/",
+          icon:"creative",
+          children: "structure",
+          collapsable: true
+        }    
+      ],
     },
     // {
     //   text: "Blog",

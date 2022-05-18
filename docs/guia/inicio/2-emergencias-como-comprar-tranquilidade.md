@@ -32,7 +32,7 @@ Foca AGORA em juntar os primeiros R$1.000.
 
 Essa agora deve ser a prioridade de toda a sua vida financeira.
 
-Só depois de passar dessa [barreira dos R$ 1.000](/guia/desafio-1000-reais) é que você se precisa se preocupar com outras metas ou tipos de investimentos.
+Só depois de passar dessa [barreira dos R$ 1.000](/guia/inicio/desafio-1000-reais) é que você se precisa se preocupar com outras metas ou tipos de investimentos.
 
 ### Onde juntar a reserva para emergências?
 
