@@ -11,6 +11,12 @@ export const pt = defineSidebarConfig({
       link: "guia/",
       children: "structure",
     },
+    {
+      text: "Finanças Comportamentais",
+      prefix: "financas-comportamentais/",
+      link: "financas-comportamentais/",
+      children: "structure",
+    },
     // {
     //   text: "Blog",
     //   link: "blog/"
