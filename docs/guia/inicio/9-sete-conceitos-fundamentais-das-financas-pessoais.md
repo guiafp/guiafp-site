@@ -46,7 +46,7 @@ Com a construção do seu patrimônio é a mesma coisa. No começo, parece que n
 
 O efeito dos juros compostos só é melhor observado depois de muitos anos, coisa de mais de uma década. Dá uma olhada nesse gráfico:
 
-![O Poder dos Juros Compostos](../assets/juroscompostos.png)
+![O Poder dos Juros Compostos](../../assets/juroscompostos.png)
 
 Na linha preta reta, você vê o que acontece se você simplesmente juntar dinheiro, R$1.000 por mês durante 30 anos.
 
