@@ -53,7 +53,7 @@ E as principais carteiras digitais atendem esses pre-requisitos com facilidade e
 
 O Tesouro SELIC também é uma alternativa super válida, que rende aproximadamente a mesma coisa, mas como a interface é um pouco mais complicada do que a das carteiras digitais, não vou nem mencionar aqui.
 
-## Onde investir de R$10.000 até R$50.000?
+## Onde investir de R$ 10.000 até R$ 50.000?
 
 Mais de R$ 10 mil reais? Agora sim a gente consegue finalmente falar de investimentos um pouco mais complexos.
 
@@ -151,7 +151,7 @@ Alguns exemplos:
 - Renda Fixa não garantida pelo FGC (Precatórios, Debêntures)
 - Criptomoedas
 
-## Onde investir de R$100.000 a R$ 1 milhão?
+## Onde investir de R$ 100.000 a R$ 1 milhão?
 
 Começa a ficar interessante ter apoio especializado, por meio de
 
