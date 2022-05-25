@@ -67,7 +67,7 @@ E não tem nada a ver com trade, ficar comprando e vendendo vidradão no mercado
 
 O que eu estou falando aqui é de **ser sócio de grandes empresas**, em acompanhar o que acontece dentro delas e de **crescer no longo prazo.**
 
-Você vai aprender mais sobre esse assunto na seção **[Renda Variável – Ações](https://jurosbaixos.com.br/educacao/curso/renda-variavel-acoes/as-acoes-da-bolsa-de-valores/)**, que te explica como comprar a sua primeira ação e as coisas que você tem que ficar de olho.
+Você vai aprender mais sobre esse assunto na seção **[Renda Variável – Ações]()**, que te explica como comprar a sua primeira ação e as coisas que você tem que ficar de olho.
 
 Mas todo esse papo naturalmente puxa outra pergunta:
 
