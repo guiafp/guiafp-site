@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a,d as s}from"./app.65b59411.js";const c={},r={id:"criptomoedas",tabindex:"-1"},d=a("a",{class:"header-anchor",href:"#criptomoedas","aria-hidden":"true"},"#",-1),_=s(" Criptomoedas"),n=[d,_];function i(h,m){return o(),t("h1",r,n)}var l=e(c,[["render",i],["__file","index.html.vue"]]);export{l as default};
