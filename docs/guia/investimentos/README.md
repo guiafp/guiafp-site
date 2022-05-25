@@ -26,4 +26,4 @@ Vários produtos alternativos de investimento vêm surgindo, e essa seção tent
 
 ## Recomendação de Leitura para se aprofundar mais sobre o assunto
 
-(A Fórmula Mágica de Joel Greenblatt para bater o Mercado de Ações / *The little book that beats the market*)[https://www.amazon.com.br/F%C3%B3rmula-M%C3%A1gica-Greenblatt-Bater-Mercado/dp/8557173601] - Esse livro é uma obra prima dos investimentos, uma leitura fácil e rápida, em que o autor buscou ensinar seus filhos adolescentes sobre o que importa na hora de investir. É útil inclusive para profissionais experientes do mercado terem mais clareza e foco em suas análises. É genial.
+[A Fórmula Mágica de Joel Greenblatt para bater o Mercado de Ações / *The little book that beats the market*](https://www.amazon.com.br/F%C3%B3rmula-M%C3%A1gica-Greenblatt-Bater-Mercado/dp/8557173601) - Esse livro é uma obra prima dos investimentos, uma leitura fácil e rápida, em que o autor buscou ensinar seus filhos adolescentes sobre o que importa na hora de investir. É útil inclusive para profissionais experientes do mercado terem mais clareza e foco em suas análises. É genial.

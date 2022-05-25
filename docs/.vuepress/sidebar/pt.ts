@@ -28,7 +28,7 @@ export const pt = defineSidebarConfig({
         // },
         {
           text: "Investimentos",
-          link: "investimentos/introducao/",
+          link: "investimentos/",
           prefix: "investimentos/",
           icon: "launch",
           collapsable: true,
