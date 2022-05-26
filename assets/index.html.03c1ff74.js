@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,a as o,d as n}from"./app.5516d515.js";const a={},r={id:"outros-investimentos",tabindex:"-1"},c=o("a",{class:"header-anchor",href:"#outros-investimentos","aria-hidden":"true"},"#",-1),_=n(" Outros Investimentos"),i=[c,_];function d(h,m){return s(),t("h1",r,i)}var l=e(a,[["render",d],["__file","index.html.vue"]]);export{l as default};
