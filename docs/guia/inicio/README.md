@@ -2,6 +2,7 @@
 title: Início
 next: /guia/inicio/1-os-2-objetivos-principais-das-financas-pessoais
 contributors: false
+index: 0
 ---
 
 Esta é a principal e mais importante seção deste guia. 

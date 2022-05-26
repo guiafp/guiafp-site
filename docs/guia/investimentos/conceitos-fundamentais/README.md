@@ -1,5 +1,7 @@
 ---
 contributors: false
+index: false
+order: false
 ---
 
-# Investimentos - Conceitos Fundamentais
+# Conceitos Fundamentais

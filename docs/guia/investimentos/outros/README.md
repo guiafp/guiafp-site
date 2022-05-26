@@ -2,4 +2,4 @@
 contributors: false
 ---
 
-# Criptomoedas
+# Outros Investimentos

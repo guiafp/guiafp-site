@@ -41,14 +41,14 @@ export const pt = defineSidebarConfig({
               collapsable: true,
               children: "structure"
             },
-            // {
-            //   text: "Conceitos Fundamentais",
-            //   prefix: "conceitos-fundamentais/",
-            //   link: "conceitos-fundamentais/",
-            //   icon: "launch",
-            //   collapsable: true,
-            //   children: "structure"
-            // },
+            {
+              text: "Conceitos Fundamentais",
+              prefix: "conceitos-fundamentais/",
+              link: "conceitos-fundamentais/",
+              icon: "launch",
+              collapsable: true,
+              children: "structure"
+            },
             // {
             //   text: "Independência Financeira",
             //   prefix: "independencia-financeira/",
