@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as n,d as o}from"./app.089c9f69.js";const s={},c={id:"conceitos-fundamentais",tabindex:"-1"},d=n("a",{class:"header-anchor",href:"#conceitos-fundamentais","aria-hidden":"true"},"#",-1),i=o(" Conceitos Fundamentais"),_=[d,i];function r(h,f){return a(),t("h1",c,_)}var l=e(s,[["render",r],["__file","index.html.vue"]]);export{l as default};
