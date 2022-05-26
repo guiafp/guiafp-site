@@ -1,6 +1,7 @@
 ---
 contributors: false
 index: false
+next: /guia/investimentos/conceitos-fundamentais/investimentos-quanto-renderam-em-2022.html
 ---
 
 # Conceitos Fundamentais

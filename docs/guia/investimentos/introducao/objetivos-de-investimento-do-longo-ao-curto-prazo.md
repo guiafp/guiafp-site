@@ -1,6 +1,6 @@
 ---
 contributors: false
-# next: /guia/investimentos/conceitos-fundamentais
+next: /guia/investimentos/conceitos-fundamentais/
 ---
 
 # Objetivos de Investimento: do longo ao curto prazo
