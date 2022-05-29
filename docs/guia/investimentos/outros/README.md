@@ -1,5 +1,0 @@
----
-contributors: false
----
-
-# Outros Investimentos

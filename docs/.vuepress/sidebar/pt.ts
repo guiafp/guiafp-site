@@ -28,7 +28,7 @@ export const pt = defineSidebarConfig({
         // },
         {
           text: "Investimentos",
-          link: "investimentos/",
+          // link: "investimentos/",
           prefix: "investimentos/",
           icon: "launch",
           collapsable: true,
@@ -36,7 +36,7 @@ export const pt = defineSidebarConfig({
             {
               text: "Introdução",
               prefix: "introducao/",
-              link: "introducao/",
+              // link: "introducao/",
               icon: "launch",
               collapsable: true,
               children: "structure"
@@ -44,43 +44,43 @@ export const pt = defineSidebarConfig({
             {
               text: "Conceitos Fundamentais",
               prefix: "conceitos-fundamentais/",
-              link: "conceitos-fundamentais/",
+              // link: "conceitos-fundamentais/",
               icon: "launch",
               collapsable: true,
               children: "structure"
             },
-            // {
-            //   text: "Independência Financeira",
-            //   prefix: "independencia-financeira/",
-            //   link: "independencia-financeira/",
-            //   icon: "launch",
-            //   collapsable: true,
-            //   children: "structure"
-            // },
-            // {
-            //   text: "Renda Variável - Ações",
-            //   prefix: "renda-variavel-acoes/",
-            //   link: "renda-variavel-acoes/",
-            //   icon: "launch",
-            //   collapsable: true,
-            //   children: "structure"
-            // },
-            // {
-            //   text: "Renda Fixa e Tesouro Direto",
-            //   prefix: "renda-fixa-tesouro/",
-            //   link: "renda-fixa-tesouro/",
-            //   icon: "launch",
-            //   collapsable: true,
-            //   children: "structure"
-            // },
-            // {
-            //   text: "Outros Investimentos",
-            //   prefix: "outros/",
-            //   link: "outros/",
-            //   icon: "launch",
-            //   collapsable: true,
-            //   children: "structure"
-            // }
+            {
+              text: "Independência Financeira",
+              prefix: "independencia-financeira/",
+              // link: "independencia-financeira/",
+              icon: "launch",
+              collapsable: true,
+              children: "structure"
+            },
+            {
+              text: "Renda Variável - Ações",
+              prefix: "renda-variavel-acoes/",
+              // link: "renda-variavel-acoes/",
+              icon: "launch",
+              collapsable: true,
+              children: "structure"
+            },
+            {
+              text: "Renda Fixa e Tesouro Direto",
+              prefix: "renda-fixa/",
+              // link: "renda-fixa/",
+              icon: "launch",
+              collapsable: true,
+              children: "structure"
+            },
+            {
+              text: "Criptomoedas",
+              prefix: "cripto/",
+              // link: "cripto/",
+              icon: "launch",
+              collapsable: true,
+              children: "structure"
+            }
           ]
         },
         {

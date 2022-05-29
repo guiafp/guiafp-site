@@ -15,3 +15,5 @@ Conceitos necessários para você pensar, discutir e aprender mais sobre investi
 - [Os Riscos dos Principais Investimentos](/guia/investimentos/conceitos-fundamentais/os-riscos-dos-principais-investimentos.html)
 - [O que é FGC? É seguro investir em renda fixa e carteiras digitais?](/guia/investimentos/conceitos-fundamentais/o-que-e-fgc-e-seguro-investir-em-renda-fixa-e-carteiras-digitais.html)
 - [O que são ações? O que é uma empresa?](/guia/investimentos/conceitos-fundamentais/o-que-sao-acoes-o-que-e-uma-empresa.html)
+- [O que é a Bolsa de Valores?](/guia/investimentos/conceitos-fundamentais/o-que-e-a-bolsa-de-valores.html)
+- [Por onde investir? Banco? Corretora? Qual corretora escolher?](/guia/investimentos/conceitos-fundamentais/por-onde-investir-banco-corretora-qual-corretora-escolher.html)
