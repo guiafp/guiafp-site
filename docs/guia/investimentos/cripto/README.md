@@ -1,5 +1,7 @@
 ---
 contributors: false
+next: /guia/ferramentas-e-produtividade/
+prev: /guia/investimentos/independencia-financeira/
 ---
 
 # Criptomoedas

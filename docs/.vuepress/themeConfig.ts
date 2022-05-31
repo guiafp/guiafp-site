@@ -113,7 +113,6 @@ export default defineThemeConfig({
     //   autoExcerpt: true,
     // },
 
-    
     seo:{
       hostname:"https://guiafp.com.br/",
       fallBackImage:"https://guiafp.com.br/logo.png",
