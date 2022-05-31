@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a as r,d}from"./app.16f46088.js";const o={},s={id:"ferramentas-e-produtividade",tabindex:"-1"},n=r("a",{class:"header-anchor",href:"#ferramentas-e-produtividade","aria-hidden":"true"},"#",-1),c=d(" Ferramentas e Produtividade"),i=[n,c];function _(h,f){return t(),a("h1",s,i)}var l=e(o,[["render",_],["__file","index.html.vue"]]);export{l as default};

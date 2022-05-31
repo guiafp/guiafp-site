@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,a as t,d as o}from"./app.16f46088.js";const d={},c={id:"credito-para-empreender",tabindex:"-1"},n=t("a",{class:"header-anchor",href:"#credito-para-empreender","aria-hidden":"true"},"#",-1),s=o(" Cr\xE9dito Para Empreender"),_=[n,s];function i(h,m){return a(),r("h1",c,_)}var f=e(d,[["render",i],["__file","index.html.vue"]]);export{f as default};

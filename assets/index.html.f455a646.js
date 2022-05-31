@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as r,d as s}from"./app.02f7d6bf.js";const o={},c={id:"renda-variavel-acoes",tabindex:"-1"},n=r("a",{class:"header-anchor",href:"#renda-variavel-acoes","aria-hidden":"true"},"#",-1),d=s(" Renda Vari\xE1vel - A\xE7\xF5es"),_=[n,d];function i(h,l){return t(),a("h1",c,_)}var v=e(o,[["render",i],["__file","index.html.vue"]]);export{v as default};
