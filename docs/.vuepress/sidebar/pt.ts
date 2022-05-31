@@ -131,8 +131,8 @@ export const pt = defineSidebarConfig({
           children: "structure"
         },
         {
-          text: "Alavancar um Negócio",
-          prefix: "alavancar-negocio/",
+          text: "Impulsionar um Negócio",
+          prefix: "impulsionar-negocio/",
           icon:"resize",
           collapsable: true,
           children: "structure"

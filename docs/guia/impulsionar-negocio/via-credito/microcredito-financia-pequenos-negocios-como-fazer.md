@@ -1,7 +1,7 @@
 ---
 contributors: false
 index: 2
-next: /guia/alavancar-negocio/via-participacao-na-sociedade/
+next: /guia/impulsionar-negocio/via-participacao-na-sociedade/
 ---
 # Microcrédito financia pequenos negócios: como fazer?
 

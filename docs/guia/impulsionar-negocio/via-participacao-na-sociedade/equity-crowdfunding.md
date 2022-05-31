@@ -1,6 +1,7 @@
 ---
 contributors: false
 index: 1
+next: /guia/financas-comportamentais/
 ---
 # Equity Crowdfunding
 

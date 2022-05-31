@@ -1,6 +1,7 @@
 ---
 index: 11
 contributors: false
+next: /guia/sair-das-dividas/negativado-e-endividado-como-limpar-meu-nome/
 ---
 
 # Recapitulando: Resumo sobre esta Introdução às Finanças Pessoais
