@@ -21,7 +21,7 @@ Então é isso aí, vamos pra prática!
 Eu uso as **Planilhas do Google** pra fazer o orçamento da minha família e recomendo muito.
 
 :::tip Planilha de Orçamento
-📓 **[Clique aqui](https://docs.google.com/spreadsheets/d/1mGaAHFBNKcPzxrIXj4bp5OM8omy7ZqBKcd-AAkj_Gxs/copy)** para fazer uma cópia do nosso modelo de planilha para o seu Google Drive.
+📓 **[Clique aqui](https://docs.google.com/spreadsheets/d/1jvw-xkDhSh5ahHz5oVQFDBKM5UCG3wehrnDfB4d5H8o/copy)** para fazer uma cópia do nosso modelo de planilha para o seu Google Drive.
 :::
 
 Dá pra acompanhar tudo do seu navegador, é fácil de alterar, de fazer contas, enfim. Mas **eu** me amarro em planilhas, acho super fácil.
