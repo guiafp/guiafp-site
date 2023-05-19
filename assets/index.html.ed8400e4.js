@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a,d as r}from"./app.218b248b.js";const s={},d={id:"renda-fixa-e-tesouro-direto",tabindex:"-1"},n=a("a",{class:"header-anchor",href:"#renda-fixa-e-tesouro-direto","aria-hidden":"true"},"#",-1),c=r(" Renda Fixa e Tesouro Direto"),i=[n,c];function _(h,f){return t(),o("h1",d,i)}var l=e(s,[["render",_],["__file","index.html.vue"]]);export{l as default};
