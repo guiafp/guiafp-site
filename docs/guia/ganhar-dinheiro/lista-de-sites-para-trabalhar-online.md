@@ -48,7 +48,9 @@ Essa daqui não é uma opção 100% online, porque envolverá fabricar seu produ
 Essa daqui é uma categoria muito interessante, pois não exige que você produza e nem cuide da entrega. Realmente é tudo online! Basta você inventar **a arte** do produto.
 
 **[Printful](https://www.printful.com/br/print-on-demand)**
+
 **[Teespring](https://teespring.com/)**
+
 **[Printfy](https://printify.com/print-on-demand/)**
 
 Mais uma lista de sites Print On Demand: [Best Sites Print On Demand](https://smartmoneymamas.com/best-sites-print-on-demand/)
