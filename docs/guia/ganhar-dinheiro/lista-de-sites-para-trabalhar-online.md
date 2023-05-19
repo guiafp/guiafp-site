@@ -43,10 +43,14 @@ Essa daqui não é uma opção 100% online, porque envolverá fabricar seu produ
 
 **[Enjoei](https://www.enjoei.com.br/)**
 
-# #5 – Produza e venda produtos na internet
+# #5 – (*Print on Demand*) Produza e venda produtos na internet
 
-Essa daqui é uma categoria muito interessante, pois não exige que você produza e nem cuide da entrega. Realmente é tudo online! Basta você inventar o produto.
+Essa daqui é uma categoria muito interessante, pois não exige que você produza e nem cuide da entrega. Realmente é tudo online! Basta você inventar **a arte** do produto.
 
+**[Printful](https://www.printful.com/br/print-on-demand)**
 **[Teespring](https://teespring.com/)**
+**[Printfy](https://printify.com/print-on-demand/)**
+
+Mais uma lista de sites Print On Demand: [Best Sites Print On Demand](https://smartmoneymamas.com/best-sites-print-on-demand/)
 
 Foi útil para você? **Compartilha no whatsapp!**
